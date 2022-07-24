@@ -1,3 +1,5 @@
+##[Redmi 10x 4G/Redmi Note 9][MERLIN]TWRP Kurulum Rehberi
+
 Buradaki anlatım V12.0.1.0.RJOMIXM (Android 11) Sürümü baz alınarak anlatılmıştır.
 
 Farklı bir Miui sürümünde iseniz
@@ -8,7 +10,7 @@ https://forum.xda-developers.com/t/twrp-pbrp-collection-of-twrp-pbrp-for-merlin-
 
 Yukarıdaki Linkteki verilen sürümlere uygun twrp dosyalarını kurmanız gerekmektedir.
 
-NOT: Bazı cihazlarda twrp yüklenmesi sonucu dokunmatik çalışmaması ve siyah ekran sorunları oluşmaktadır. Bu sorunları göze alarak twrp kurmayı deneyiniz.
+##NOT: Bazı cihazlarda twrp yüklenmesi sonucu dokunmatik çalışmaması ve siyah ekran sorunları oluşmaktadır. Bu sorunları göze alarak twrp kurmayı deneyiniz.
 Yapacağınız işlemlerde bütün sorumluluk size aittir. Oluşabilecek sorunlardan şahsım ve "TurkDevs.com" sorumlu tutulamaz.
 
 Lütfen Başka Forumlarda Veya Platformlarda İznim Olmadan Paylaşmayınız.
