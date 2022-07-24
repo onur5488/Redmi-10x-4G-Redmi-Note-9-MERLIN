@@ -34,4 +34,4 @@ fastboot flash misc misc.bin yazıyoruz enter a basıyoruz
 
 fastboot boot 3.4.2b-0109.img yazıyoruz enter a basıyoruz 5sn-10sn arası bekliyoruz açılırken ses açmaya basıp recovery ekranına geçmiş oluyoruz.
 
-![Uygulama Ekran Görüntüsü](https://www.hizliresim.com/iu8wpfu)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/iu8wpfu.png)
