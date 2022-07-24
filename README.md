@@ -33,12 +33,30 @@ Mınımal adb ve fastboot aracını yönetici olarak çalıştırıp açınız
 
 Gelen komut ekranına sırayla
 
-fastboot flash recovery 3.4.2b-0109.img yazıyoruz enter a basıyoruz.
+```
+fastboot flash recovery 3.4.2b-0109.img
 
-fastboot flash vbmeta vbmeta.img yazıyoruz enter a basıyoruz.
+```
+yazıyoruz enter a basıyoruz.
 
-fastboot flash misc misc.bin yazıyoruz enter a basıyoruz
+```
+fastboot flash vbmeta vbmeta.img 
 
-fastboot boot 3.4.2b-0109.img yazıyoruz enter a basıyoruz 5sn-10sn arası bekliyoruz açılırken ses açmaya basıp recovery ekranına geçmiş oluyoruz.
+```
+yazıyoruz enter a basıyoruz.
+
+```
+fastboot flash misc misc.bin 
+
+```
+yazıyoruz enter a basıyoruz
+
+```
+fastboot boot 3.4.2b-0109.img 
+
+```
+
+
+yazıyoruz enter a basıyoruz 5sn-10sn arası bekliyoruz açılırken ses açmaya basıp recovery ekranına geçmiş oluyoruz.
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/iu8wpfu.png)
