@@ -1,4 +1,4 @@
-# [Redmi 10x 4G/Redmi Note 9][MERLIN]TWRP Kurulum Rehberi-TWRP-Kurulum-Rehberi
+# [Redmi 10x 4G/Redmi Note 9][MERLIN]TWRP Kurulum Rehberi
 
 
 Buradaki anlatım V12.0.1.0.RJOMIXM(Android 11) Sürümü baz alınarak anlatılmıştır.
